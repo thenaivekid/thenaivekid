@@ -4,9 +4,9 @@
 
 - 👀 I’m interested in computer programming, hiking, trekking, camping and physical exercises.
 - 🌱 I’m fairly confident that i am familiar with C programming.
-- Now I am learnig web programming. Currently learning django and sqlite.
-- Next I'm looking forward to dip my toe in the realm of AI and ML.
-- 💞️ I’m looking to collaborate on C projects
+- Python
+- Web dev with Python and Javascript using Django
+- AI with Python
 - 📫 How to reach me mail at neupane.ashok.9696@gmail.com
 
 # now you are my friend. (:
