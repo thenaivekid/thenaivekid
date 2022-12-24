@@ -7,9 +7,9 @@
 - Python
 - Web dev with Python and Javascript using Django
 - AI with Python
+- Next I am learning to develop web app that will collect user data so i can train a model to predict their future interactions in the app.
 - 📫 How to reach me mail at neupane.ashok.9696@gmail.com
 
-# now you are my friend. (:
 
 <!---
 thenaivekid/thenaivekid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
