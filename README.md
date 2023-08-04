@@ -1,6 +1,4 @@
-# 👋 Hi, I’m @thenaivekid
-
-## aka Ashok Neupane
+# 👋 Hi, I’m Ashok Neupane
 
 - 👀 I’m interested in computer programming, hiking, trekking, camping and physical exercises.
 - 📫 How to reach me mail at neupane.ashok.9696@gmail.com
