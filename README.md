@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Ashok Neupane
 
 - 👀 I’m interested in computer programming, hiking, trekking, camping and physical exercises.
+- Follow me in linkedin: https://www.linkedin.com/in/ashok-neupane-156959232/
 - 📫 How to reach me mail at neupane.ashok.9696@gmail.com
 
 
