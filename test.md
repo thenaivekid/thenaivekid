@@ -1,0 +1,3 @@
+- https://github.dev/facebookresearch/sapiens
+- https://medium.com/@nandinilreddy/decoding-meta-sapiens-a-human-centric-ai-model-for-precision-tasks-16fc08b8cd31
+- https://www.kaggle.com/code/ashokprasadneupane/notebook21e0e63a8f
